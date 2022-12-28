@@ -1,14 +1,14 @@
 # Code Quiz
 
 # Table of Contents
-    - Description
-    - Installtion Instructions
-    - Github Account
-    - Contacts
-    - Images
-    - Code Snippets
-    - Resources
-    - Learning Points
+ - Description
+ - Installtion Instructions
+ - Github Account
+ - Contacts
+ - Images
+ - Code Snippets
+ - Resources
+ - Learning Points
 
 # Description
 
@@ -19,7 +19,7 @@
 # Github Account
 URl -> https://github.com/ashrean/codequiz-webAPI
 
-Deployed Link -> 
+Deployed Link ->
 
 # Contacts
 Email -> sese.ashrean@gmail.com
