@@ -14,6 +14,8 @@
 
 
 # Installation Instructions
+1. Clone Repoistory
+2. Open the index.html 
 
 
 # Github Account
