@@ -22,52 +22,52 @@ var questions = [
 
     {
         // question 4 //
-        question:
-        choices:
-        answer:
+        question: " Which operator means equality?",
+        choices: [">", "<", "!=", "==="],
+        answer: "==="
     },
 
     {
         // question 5 //
-        question:
-        choices:
-        answer:
+        question: "The array object is enclosed with ____",
+        choices: ["square brackets", "circle brackets", "curly braces", "quotes"]
+        answer: "square brackets"
     },
 
     {
         // question 6 //
-        question:
-        choices:
-        answer:
+        question: "Which operator means less than?",
+        choices: ["!<", "<", "!>", ">"],
+        answer: "<"
 
     },
 
     {
         // question 7 //
-        question:
-        choices:
-        answer:
+        question: "Which scope lets variables be accessible on a internal scale?"
+        choices: ["internal scope", "global scope", "nether scope", "local scope"],
+        answer: "local scope"
     },
 
     {
         // question 8 //
-        question:
-        choices:
-        answer:
+        question: "The variable is declared by using ___"
+        choices: ["arr", "nav", "vari", "var"],
+        answer: "var"
     },
 
     {
         // question 9 //
-        question:
-        choices:
-        answer:
+        question: "Which scope lets variables be accessible on a universal scale? ",
+        choices: ["global scope", "local scope", "nether scope", "world scope"],
+        answer: "global scope"
     },
 
     {
         // question 10 //
-        question:
-        choices:
-        answer:
+        question: "Which of the following function of array obejects sorts all the elements into alphabetical or numerical order? ",
+        choices: ["pop()", "push()", "slice()", "sort()"],
+        answer: "sort()"
     },
 
 
