@@ -8,10 +8,10 @@
  - Images
  - Code Snippets
  - Resources
- - Learning Points
+ - Credits
 
 # Description
-The purpose of this project is not only to test your speed but also your knowledge. You will be presented with an intro page with a button saying "Begin" once you have clicked on that button a timer of sixty seconds has appeared on the right-hand screen. With the allotted time you must correctly answer the multiple choice questions before the timer has hit zero or if you answered them all correctly. But there is a twist! For every wrong answer, a total of three seconds were subtracted from the timer.  At the end of the quiz, you must enter your initials to store your score on the scoreboard. 
+The purpose of this project is not only to test your speed but also your knowledge. You will be presented with an intro page with a button saying "Begin" once you have clicked on that button a timer of sixty seconds has appeared on the right-hand screen. With the allotted time you must correctly answer the multiple choice questions before the timer has hit zero or if you answered them all correctly. But there is a twist! For every wrong answer, a total of three seconds is subtracted from the timer.  At the end of the quiz, you must enter your initials to store your score on the scoreboard.
 
 # Installation Instructions
 1. Open termianl (make sure its not cd'd into a directory)
@@ -44,8 +44,8 @@ Linkedin -> https://www.linkedin.com/in/ashleyrean/
 # Resources
 
 
-# Learning Points
-
+# Credits
+I want to thank my borhter-in-law, Paul, for helping me create a pesudocode thought process and answering all my questions.
 
  <!-- Pseudo Code
  1. When initating the quiz the user must press start in order for the timer to work
