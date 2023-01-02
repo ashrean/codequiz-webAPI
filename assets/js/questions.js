@@ -30,7 +30,7 @@ var questions = [
     {
         // question 5 //
         question: "The array object is enclosed with ____",
-        choices: ["square brackets", "circle brackets", "curly braces", "quotes"]
+        choices: ["square brackets", "circle brackets", "curly braces", "quotes"];
         answer: "square brackets"
     },
 
@@ -44,14 +44,14 @@ var questions = [
 
     {
         // question 7 //
-        question: "Which scope lets variables be accessible on a internal scale?"
+        question: "Which scope lets variables be accessible on a internal scale?",
         choices: ["internal scope", "global scope", "nether scope", "local scope"],
         answer: "local scope"
     },
 
     {
         // question 8 //
-        question: "The variable is declared by using ___"
+        question: "The variable is declared by using ___",
         choices: ["arr", "nav", "vari", "var"],
         answer: "var"
     },
