@@ -1,14 +1,6 @@
-// Welcome Page //
-// We are going to be using the const so values will not be reassigned //
+// We are going to be defining the variables //
 
-const welcomeElm = document.querySelector ("#welcome");
-const startQuizBtnElm = document.querySelector ("#startQuiz");
-
-// Quiz Elements //
-const quizElm = document.querySelector ("#quiz");
-const questionElm = docutment.querySelector ("#question");
-const answerElm = document.querySelector ("#answers");
-
-// Input Score Elements //
-const inputScoreElm = document.querySelector ("#inputScore");
-const initials
+var welcome = document.querySelector('#introduction');
+var startBtn = document.querySelector('#start_button');
+var intro = document.querySelector('#intro_page');
+var question
