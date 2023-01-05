@@ -72,14 +72,29 @@
 
         <!-- Final section  -->
         <section>
-
+            <div>
+                <h2 id="finished"> You have completed the quiz! </h2>
+                <p id ="finalEl">The final score is...  </p>
+                <p> Enter initials
+                    <input id="initals">
+                    <button class="button" id="submit_btn"> Submit</button>
+                </p>
+            </div>
         </section>
 
         <!-- High score section-->
-        <section>
+        <section class="highscore_section" id="highscore_section">
+            <div>
+                <h2> High Scores </h2>
+                <div id="score_record"><p> Previous Records</p></div>
+            </div>
 
+            <div>
+                <button class="button" id="back_btn"> Go Back</button>
+            </div>
         </section>
+        <script src="./assets/js/questions.js"></script>
+        <script src="./assets/js/quiz.js"></script>
     </body>
-    </main>
-
+     </main>
 </html>

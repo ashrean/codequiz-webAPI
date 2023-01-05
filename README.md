@@ -45,7 +45,7 @@ Linkedin -> https://www.linkedin.com/in/ashleyrean/
 
 
 # Credits
-I want to thank my borhter-in-law, Paul, for helping me create a pesudocode thought process and answering all my questions.
+Paul - my brother-in-law, for taking the time out his schedule and walking through each of the topics.
 
  <!-- Pseudo Code
  1. When initating the quiz the user must press start in order for the timer to work

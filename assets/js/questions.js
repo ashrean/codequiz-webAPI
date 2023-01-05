@@ -1,3 +1,5 @@
+// created a separate js for the questions // 
+
 var questions = [
     {
         // question 1 //
