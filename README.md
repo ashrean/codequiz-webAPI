@@ -27,7 +27,7 @@ The purpose of this project is not only to test your speed but also your knowled
 # Github Account
 URl -> https://github.com/ashrean/codequiz-webAPI
 
-Deployed Link ->
+Deployed Link -> https://ashrean.github.io/codequiz-webAPI/
 
 # Contacts
 Email -> sese.ashrean@gmail.com
