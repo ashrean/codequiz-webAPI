@@ -38,6 +38,23 @@ Linkedin -> https://www.linkedin.com/in/ashleyrean/
 
 
 # Code Snippets
+Creating the timer 
+function beginCount() {
+    var timeInterval = setInterval(function() {
+        secondsLeft --;
+        timeLeft.textContent = "Time Remaining" + "secondsRemaining" + "s";
+
+        if (secondsRemaining <=0){
+            clearInterval(timeInterval);
+            timeLeft.textContent = "Time is up...";
+            quizDone();
+
+        } else if(questCount >= questions.length + 1 ){
+            clearInterval(timeInterval);
+            quizDone();
+        }
+    }, 1000);
+}
 
 
 # Resources
