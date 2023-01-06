@@ -54,13 +54,10 @@ function beginCount() {
 
 
 # Resources
-Books:
-Javascipt bt Mike McGrath 6th edition
-
-Websites:
-MDN Web Docs: https://developer.mozilla.org/en-US/
-W3 Schools: https://www.w3schools.com/
-Slides and code drills from class 
+- Javascipt by Mike McGrath 6th edition
+- MDN Web Docs: https://developer.mozilla.org/en-US/
+- W3 Schools: https://www.w3schools.com/
+- Slides and code drills from class
 # Credits
 Paul - my brother-in-law, for taking the time out his schedule and walking through each of the topics.
 
