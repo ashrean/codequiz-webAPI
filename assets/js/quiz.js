@@ -31,13 +31,7 @@ var scoreRecords = document.querySelector("#score_record");
 var finish = document.querySelector("#finish");
 
 var backBtn = document.querySelector("#back_btn");
-
-// Other Variables //
-var timeLeft = document.getElementById("#timer");
-var secondsRemaining = 60;
-var questionNum = 0;
-var totalScore = 0;
-var questCount = 1;
+var clearBtn = document.querySelector("#clear_btn")
 
 
 // Questions for Quiz //
@@ -119,7 +113,12 @@ var questions = [
 
 
 
-
+// Other Variables //
+var timeLeft = document.getElementById("#timer");
+var secondsRemaining = 60;
+var questionNum = 0;
+var totalScore = 0;
+var questCount = 1;
 
 
 // Function: By clicking on the start button then the timer begins //
@@ -127,7 +126,7 @@ var questions = [
 function beginCount() {
     var timeInterval = setInterval(function() {
         secondsLeft --;
-        timeLeft.textContent = "Time Remaining" + "secondsRemaining" + "s";
+        timeLeft.textContent = "Time Remaining" + "secondsLeft" + "s";
 
         if (secondsRemaining <=0){
             clearInterval(timeInterval);

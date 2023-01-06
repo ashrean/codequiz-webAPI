@@ -5,7 +5,6 @@
  - Installation Instructions
  - Github Account
  - Contacts
- - Images
  - Code Snippets
  - Resources
  - Credits
@@ -34,11 +33,8 @@ Email -> sese.ashrean@gmail.com
 
 Linkedin -> https://www.linkedin.com/in/ashleyrean/
 
-# Images
-
-
 # Code Snippets
-Creating the timer 
+Creating the timer
 function beginCount() {
     var timeInterval = setInterval(function() {
         secondsLeft --;
@@ -58,7 +54,13 @@ function beginCount() {
 
 
 # Resources
+Books:
+    - Javascipt bt Mike McGrath 6th edition
 
+Websites:
+    - MDN Web Docs: https://developer.mozilla.org/en-US/
+    - W3 Schools: https://www.w3schools.com/
+    -
 
 # Credits
 Paul - my brother-in-law, for taking the time out his schedule and walking through each of the topics.
